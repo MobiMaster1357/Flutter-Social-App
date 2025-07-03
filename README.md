@@ -1,4 +1,4 @@
-# 🔥🔥 Flutter Social App Concept ![PRs Welcome]
+# 🔥🔥 Flutter Social App Concept ![Welcome]
 
 Star⭐ the repo if you like what you see😉.
 
